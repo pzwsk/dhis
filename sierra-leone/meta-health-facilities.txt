@@ -6,9 +6,9 @@ Data were obtained from a FOI request to the Ministry of Health and Sanitation o
 
 List and description of fields:
 DISTRICT: district  (2nd administrative division)
-LOCAL_COUN:
+LOCAL_COUN: local council
 CHIEFDOM: chiefdom (3rd administrative division)
-SECTION:
+SECTION: section
 LOCALITY_N: Name of locality
 FACILITY_N: Name of facility
 FACILITY_T: Type of facility (MCHP, CHP, Hospitals, CHC and Clinics)
