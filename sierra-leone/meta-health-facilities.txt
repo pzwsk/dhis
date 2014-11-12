@@ -1,8 +1,8 @@
 Metadata for health-facilities.csv
 
-The file contains Sierra Leone Health Facilities and their Coordinates from the country DHIS database. The list attached is not comprehensive as the last mapping was done in 2010. 
+The file contains Sierra Leone Health Facilities and their Coordinates from the MOHS DHIS database. The list attached is not comprehensive as the last mapping was done in 2010. 
 
-Data obtained from a FOI request to the Ministry of Health and Sanitation of Sierra Leone.
+Data were obtained from a FOI request to the Ministry of Health and Sanitation of Sierra Leone.
 
 List and description of fields:
 DISTRICT: district  (2nd administrative division)
