@@ -14,8 +14,8 @@ SECTION: section
 LOCALITY_N: Name of locality
 FACILITY_N: Name of facility
 FACILITY_T: Type of facility (MCHP, CHP, Hospitals, CHC and Clinics)
-X: Longitude
-Y: Latitude
+LAT: Longitude
+LONG: Latitude
 
 
 ----
